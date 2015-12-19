@@ -1,0 +1,1 @@
+In 2015 “an anonymous benevolent user” of the original Navigation Spreadsheets combined several of them into a single unit to provide a much more user friendly interface and functionality. The result (named "Astron") is hereby released with its creator's consent.
